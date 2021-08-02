@@ -1,0 +1,7 @@
+body {background-image: url(1.jpg);}
+h1 { background-color: red; margin:100px 20px 30px 40px; padding: 100px 30px 20px 10px;}
+p { background-color: rgb(208, 255, 0); }
+table {border-style: dotted dashed double solid; border-width: thick; border-color: red; }
+a {text-decoration: none;}
+table,th,td {border:1px solid green;font-size: large;}
+a:hover {color: green;}
